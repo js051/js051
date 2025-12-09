@@ -1,3 +1,7 @@
+<p align="right">
+  English | <a href="README.zh-TW.md">繁體中文</a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=js051&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
